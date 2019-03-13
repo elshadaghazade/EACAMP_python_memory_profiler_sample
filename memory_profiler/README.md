@@ -66,3 +66,8 @@ def mem_func():
     Result:
 
     ![](./mprof_graph.png)
+
+
+---
+
+Created by [Elshad Agayev](https://elshadaghazade.wordpress.com/about/) | [TechAcademy](https://tech.edu.az)
