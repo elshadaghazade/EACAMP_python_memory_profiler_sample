@@ -70,4 +70,4 @@ Line #    Mem usage    Increment   Line Contents
 
 ---
 
-Created by [Elshad Agayev](https://elshadaghazade.wordpress.com/about/) | [TechAcademy](https://tech.edu.az)
+Created by [Elshad Agayev](https://elshadaghazade.wordpress.com/about/) | [EACAMP](https://elshadaghazade.com)
